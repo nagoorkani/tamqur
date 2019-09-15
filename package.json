@@ -1,0 +1,24 @@
+{
+  "name": "tamqur",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "parcel ./src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^16.8.14",
+    "@types/react-dom": "^16.8.4",
+    "parcel-bundler": "^1.12.3",
+    "tslint": "^5.16.0",
+    "typescript": "^3.4.4",
+    "@types/react-howler": "^3.7.0"
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-howler": "^3.7.4"
+  }
+}
